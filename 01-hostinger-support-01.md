@@ -151,84 +151,96 @@ Happy to help!
 **End of Conversation.**
 
 
---- 
+
+---
 # Links
---- 
+---
 
-### **1. Hostinger Malware Scanner**
-You can access the Malware Scanner service and pricing details directly from your Hostinger account:  
-🔗 [Hostinger Malware Scanner](https://hpanel.hostinger.com/websites/devopelastichayway.com/hosting-security/malware-scanner?redirectLocation=side_menu)
+# **1. Scanner de logiciels malveillants Hostinger**
+
+Accédez au service de scanner de logiciels malveillants et aux détails des tarifs directement depuis votre compte Hostinger :
+
+- **Comment utiliser le Scanner de Logiciels Malveillants chez Hostinger**  
+  
 
 ---
 
-### **2. Guides for Manual Malware Removal**
-If you wish to remove the malware manually, here are some detailed guides:  
+# **2. Guides pour la suppression manuelle de logiciels malveillants**
 
-- **Hostinger’s Guide to Malware Removal**  
-🔗 [How to Remove Malware from Your WordPress Website](https://www.hostinger.com/tutorials/how-to-remove-malware-from-wordpress)  
+Si vous souhaitez supprimer manuellement les logiciels malveillants, voici des guides détaillés :
 
-- **Updating and Securing Plugins and Themes**  
-🔗 [How to Update WordPress Plugins and Themes](https://wordpress.org/support/article/managing-plugins/)  
+- **Guide de Hostinger pour la suppression de logiciels malveillants**  
+  [Comment supprimer des logiciels malveillants de votre site WordPress](https://www.hostinger.com/tutorials/wordpress-malware-removal)
 
-- **WordPress Plugin/Theme Scanner Tools**  
-Use tools like **Wordfence** or **Sucuri Security** to scan and fix plugin issues:  
-🔗 [Wordfence Plugin for WordPress](https://wordpress.org/plugins/wordfence/)  
-🔗 [Sucuri Security Plugin](https://wordpress.org/plugins/sucuri-scanner/)
+- **Mise à jour et sécurisation des plugins et thèmes**  
+  [Comment gérer les plugins WordPress](https://wordpress.org/support/article/managing-plugins/)
 
-- **Cleaning WordPress Files**  
-🔗 [Beginner’s Guide to Cleaning WordPress Files](https://www.wpbeginner.com/wp-tutorials/beginners-guide-to-fixing-hacked-wordpress-sites/)
+- **Outils de scan de plugins/thèmes WordPress**  
+  Utilisez des outils tels que **Wordfence** ou **Sucuri Security** pour analyser et corriger les problèmes de plugins :
 
----
+  - [Plugin Wordfence pour WordPress](https://wordpress.org/plugins/wordfence/)
+  - [Plugin Sucuri Security](https://wordpress.org/plugins/sucuri-scanner/)
 
-### **3. Backup Restoration**
-If you choose the backup restoration method, here’s a guide to restoring your website:  
-
-- **Restoring a Backup in Hostinger**  
-🔗 [How to Restore Backups on Hostinger](https://www.hostinger.com/tutorials/how-to-restore-website-from-backup)  
+- **Nettoyage des fichiers WordPress**  
+  [Guide du débutant pour nettoyer les fichiers WordPress](https://www.wpbeginner.com/wp-tutorials/beginners-guide-to-fixing-hacked-wordpress-sites/)
 
 ---
 
-### **4. Securing Your Website**
-Once your site is clean, take the following actions to secure it:  
+# **3. Restauration de sauvegarde**
 
-- **Strengthen Passwords**  
-🔗 [Creating Secure Passwords](https://www.cisa.gov/uscert/ncas/tips/ST04-002)
+Si vous optez pour la méthode de restauration de sauvegarde, voici un guide pour restaurer votre site :
 
-- **Install SSL Certificates**  
-🔗 [How to Set Up Free SSL in Hostinger](https://www.hostinger.com/tutorials/how-to-install-free-ssl-certificate/)
-
-- **General WordPress Security**  
-🔗 [WordPress Security: Best Practices](https://wordpress.org/support/article/hardening-wordpress/)
+- **Restauration d'une sauvegarde chez Hostinger**  
+  [Comment restaurer des sauvegardes sur Hostinger](https://www.hostinger.com/tutorials/how-to-restore-website-from-backup)
 
 ---
 
-### **5. Protect Your Local Computer**
-Infected local computers can introduce malware to your website. Protect your devices using these resources:  
+# **4. Sécurisation de votre site web**
 
-- **Malwarebytes Free Antivirus**  
-🔗 [Download Malwarebytes](https://www.malwarebytes.com/)  
+Une fois votre site nettoyé, prenez les mesures suivantes pour le sécuriser :
 
-- **General Malware Protection Tips**  
-🔗 [How to Protect Your Computer from Malware](https://us.norton.com/internetsecurity-malware-5-ways-to-protect-your-computer-from-malware.html)
+- **Renforcement des mots de passe**  
+  [Création de mots de passe sécurisés](https://www.cisa.gov/uscert/ncas/tips/ST04-002)
 
----
+- **Installation de certificats SSL**  
+  [Comment installer un certificat SSL gratuit chez Hostinger](https://www.hostinger.com/tutorials/how-to-install-free-ssl-certificate/)
 
-### **6. reCAPTCHA Troubleshooting**
-If your reCAPTCHA is still showing errors:  
-
-- **Google’s Official reCAPTCHA Troubleshooting Guide**  
-🔗 [reCAPTCHA Troubleshooting](https://developers.google.com/recaptcha/docs/faq)
-
-- **How to Fix “Verification Failed – Network Error”**  
-🔗 [Fix reCAPTCHA Errors in WordPress](https://www.wpbeginner.com/wp-tutorials/how-to-fix-google-recaptcha-verification-failed-errors/)
+- **Sécurité générale de WordPress**  
+  [Sécuriser WordPress : meilleures pratiques](https://wordpress.org/support/article/hardening-wordpress/)
 
 ---
 
-### **7. DNS Troubleshooting Tools**
-For DNS stability issues, consider using these tools:  
+# **5. Protection de votre ordinateur local**
 
-- **Namebench for DNS Optimization**  
-🔗 [Download Namebench](https://code.google.com/archive/p/namebench/)
+Un ordinateur local infecté peut introduire des logiciels malveillants sur votre site web. Protégez vos appareils en utilisant ces ressources :
 
-- **Cloudflare for DNS Management and CDN**  
-🔗 [Set Up Cloudflare for WordPress](https://www.hostinger.com/tutorials/cloudflare-wordpress-guide)
+- **Malwarebytes Antivirus Gratuit**  
+  [Télécharger Malwarebytes](https://www.malwarebytes.com/)
+
+- **Conseils généraux de protection contre les logiciels malveillants**  
+  [Comment protéger votre ordinateur contre les logiciels malveillants](https://us.norton.com/internetsecurity-malware-5-ways-to-protect-your-computer-from-malware.html)
+
+---
+
+# **6. Dépannage de reCAPTCHA**
+
+Si votre reCAPTCHA affiche toujours des erreurs :
+
+- **Guide officiel de Google pour le dépannage de reCAPTCHA**  
+  [Dépannage de reCAPTCHA](https://developers.google.com/recaptcha/docs/faq)
+
+- **Comment résoudre l'erreur "Échec de la vérification – Erreur réseau"**  
+  [Corriger les erreurs reCAPTCHA dans WordPress](https://www.wpbeginner.com/wp-tutorials/how-to-fix-google-recaptcha-verification-failed-errors/)
+
+---
+
+# **7. Outils de dépannage DNS**
+
+Pour les problèmes de stabilité DNS, envisagez d'utiliser ces outils :
+
+- **Namebench pour l'optimisation DNS**  
+  [Télécharger Namebench](https://code.google.com/archive/p/namebench/)
+
+- **Cloudflare pour la gestion DNS et le CDN**  
+  [Configurer Cloudflare pour WordPress](https://www.hostinger.com/tutorials/how-to-setup-cloudflare-for-wordpress)
+
