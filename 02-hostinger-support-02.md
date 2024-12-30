@@ -73,3 +73,86 @@ Alternatively, backup restoration and updating everything is the quickest and fr
 **Haythem:** Thank you!  
 
 **Vytautas:** Happy to help!  
+
+------------------
+# links: 
+------------------
+
+### **1. Hostinger Malware Scanner**
+You can access the Malware Scanner service and pricing details directly from your Hostinger account:  
+🔗 [Hostinger Malware Scanner](https://hpanel.hostinger.com/websites/devopelastichayway.com/hosting-security/malware-scanner?redirectLocation=side_menu)
+
+---
+
+### **2. Guides for Manual Malware Removal**
+If you wish to remove the malware manually, here are some detailed guides:  
+
+- **Hostinger’s Guide to Malware Removal**  
+🔗 [How to Remove Malware from Your WordPress Website](https://www.hostinger.com/tutorials/how-to-remove-malware-from-wordpress)  
+
+- **Updating and Securing Plugins and Themes**  
+🔗 [How to Update WordPress Plugins and Themes](https://wordpress.org/support/article/managing-plugins/)  
+
+- **WordPress Plugin/Theme Scanner Tools**  
+Use tools like **Wordfence** or **Sucuri Security** to scan and fix plugin issues:  
+🔗 [Wordfence Plugin for WordPress](https://wordpress.org/plugins/wordfence/)  
+🔗 [Sucuri Security Plugin](https://wordpress.org/plugins/sucuri-scanner/)
+
+- **Cleaning WordPress Files**  
+🔗 [Beginner’s Guide to Cleaning WordPress Files](https://www.wpbeginner.com/wp-tutorials/beginners-guide-to-fixing-hacked-wordpress-sites/)
+
+---
+
+### **3. Backup Restoration**
+If you choose the backup restoration method, here’s a guide to restoring your website:  
+
+- **Restoring a Backup in Hostinger**  
+🔗 [How to Restore Backups on Hostinger](https://www.hostinger.com/tutorials/how-to-restore-website-from-backup)  
+
+---
+
+### **4. Securing Your Website**
+Once your site is clean, take the following actions to secure it:  
+
+- **Strengthen Passwords**  
+🔗 [Creating Secure Passwords](https://www.cisa.gov/uscert/ncas/tips/ST04-002)
+
+- **Install SSL Certificates**  
+🔗 [How to Set Up Free SSL in Hostinger](https://www.hostinger.com/tutorials/how-to-install-free-ssl-certificate/)
+
+- **General WordPress Security**  
+🔗 [WordPress Security: Best Practices](https://wordpress.org/support/article/hardening-wordpress/)
+
+---
+
+### **5. Protect Your Local Computer**
+Infected local computers can introduce malware to your website. Protect your devices using these resources:  
+
+- **Malwarebytes Free Antivirus**  
+🔗 [Download Malwarebytes](https://www.malwarebytes.com/)  
+
+- **General Malware Protection Tips**  
+🔗 [How to Protect Your Computer from Malware](https://us.norton.com/internetsecurity-malware-5-ways-to-protect-your-computer-from-malware.html)
+
+---
+
+### **6. reCAPTCHA Troubleshooting**
+If your reCAPTCHA is still showing errors:  
+
+- **Google’s Official reCAPTCHA Troubleshooting Guide**  
+🔗 [reCAPTCHA Troubleshooting](https://developers.google.com/recaptcha/docs/faq)
+
+- **How to Fix “Verification Failed – Network Error”**  
+🔗 [Fix reCAPTCHA Errors in WordPress](https://www.wpbeginner.com/wp-tutorials/how-to-fix-google-recaptcha-verification-failed-errors/)
+
+---
+
+### **7. DNS Troubleshooting Tools**
+For DNS stability issues, consider using these tools:  
+
+- **Namebench for DNS Optimization**  
+🔗 [Download Namebench](https://code.google.com/archive/p/namebench/)
+
+- **Cloudflare for DNS Management and CDN**  
+🔗 [Set Up Cloudflare for WordPress](https://www.hostinger.com/tutorials/cloudflare-wordpress-guide)
+
