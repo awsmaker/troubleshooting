@@ -1,1 +1,15 @@
-https://www.youtube.com/watch?v=UFbLqxIYoro&ab_channel=HowtoProFix
+- https://www.youtube.com/watch?v=UFbLqxIYoro&ab_channel=HowtoProFix
+- https://support.hostinger.com/en/articles/4283700-how-to-restore-backups-at-hostinger
+- https://www.youtube.com/watch?v=UFbLqxIYoro&ab_channel=HowtoProFix
+- https://drive.google.com/file/d/1rh-u9IfwFag6vKwIyVFGTXUZlhAfka9L/view
+- https://hpanel.hostinger.com/websites/devopelastichayway.com/hosting-security/malware-scanner?redirectLocation=side_menu
+- https://devopelastichayway.com/?1735572310
+- https://www.hostinger.com/tutorials/how-to-update-wordpress#How_to_Update_WordPress_Themes_and_Plugins
+- https://www.malwarebytes.com/
+- https://www.kaspersky.ca/fr
+- https://hpanel.hostinger.com/websites/devopelastichayway.com/files/backups?redirectLocation=side_menu
+- https://devopelastichayway.com/wp-admin/
+- https://hpanel.hostinger.com/websites/devopelastichayway.com
+- https://srv1202-files.hstgr.io/2dd8049bdb6624ca/files/public_html/
+- https://devopelastichayway.com/blog/type-job/
+
